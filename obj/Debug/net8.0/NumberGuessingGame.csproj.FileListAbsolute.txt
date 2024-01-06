@@ -1,0 +1,15 @@
+/home/dima/C/CsharpBase/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame
+/home/dima/C/CsharpBase/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.deps.json
+/home/dima/C/CsharpBase/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.runtimeconfig.json
+/home/dima/C/CsharpBase/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.dll
+/home/dima/C/CsharpBase/NumberGuessingGame/bin/Debug/net8.0/NumberGuessingGame.pdb
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.AssemblyInfoInputs.cache
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.AssemblyInfo.cs
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.csproj.CoreCompileInputs.cache
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.sourcelink.json
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.dll
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/refint/NumberGuessingGame.dll
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.pdb
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/NumberGuessingGame.genruntimeconfig.cache
+/home/dima/C/CsharpBase/NumberGuessingGame/obj/Debug/net8.0/ref/NumberGuessingGame.dll
